@@ -1,0 +1,8 @@
+package com.aluminumcraft.main;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "AluminumCraft", version = "1.7.10-0.0.1", name = "AluminumCraft")
+public class AluminumCraftMain {
+
+}
