@@ -1,0 +1,19 @@
+[
+{
+ "modid": "AluminumCraft",
+ "name": "AluminumCraft",
+ "description": "Extending the minecraft metal sources.",
+ "version": "1.7.10-1.0",
+ "credits": "Created by dadarkgragon and The_Puzzlemaker",
+ "logoFile": "",
+ "mcversion": "",
+ "url": "http://aluminumcraft.wordpress.com/",
+ "updateurl": "",
+ "authors": [ "dadarkgragon", "The_Puzzlemaker", "Others" ],
+ "parent": "",
+ "screenshots": [],
+ "dependencies": [
+        "mod_MinecraftForge"
+]
+}
+]
