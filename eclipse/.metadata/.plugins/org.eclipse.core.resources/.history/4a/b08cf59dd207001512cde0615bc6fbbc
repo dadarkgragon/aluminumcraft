@@ -1,0 +1,8 @@
+package com.aluminumcraft.init;
+
+import com.aluminumcraft.item.ItemAC;
+
+
+public class ModItems {
+	public static final ItemAC AluminumIngot = new ItemAluminumIngot();
+}

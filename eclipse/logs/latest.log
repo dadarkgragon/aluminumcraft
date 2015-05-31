@@ -1,11 +1,45 @@
-[14:53:30] [main/INFO]: Setting user: Player926
-[14:53:35] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:53:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AluminumCraft
-[14:54:02] [Sound Library Loader/INFO]: Sound engine started
-[14:54:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:54:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[14:54:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AluminumCraft
-[14:54:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[14:54:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:54:25] [Sound Library Loader/INFO]: Sound engine started
-[14:55:00] [Client thread/INFO]: Stopping!
+[15:32:02] [main/INFO]: Setting user: Player703
+[15:32:07] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:32:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AluminumCraft
+[15:32:22] [Sound Library Loader/INFO]: Sound engine started
+[15:32:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:32:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:32:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AluminumCraft
+[15:32:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:32:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:32:30] [Sound Library Loader/INFO]: Sound engine started
+[15:32:42] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:32:42] [Server thread/INFO]: Generating keypair
+[15:32:47] [Server thread/INFO]: Preparing start region for level 0
+[15:32:48] [Server thread/INFO]: Preparing spawn area: 15%
+[15:32:50] [Server thread/INFO]: Changing view distance to 2, from 10
+[15:32:52] [Server thread/INFO]: Player703[local:E:3c604eda] logged in with entity id 251 at (-382.5, 4.0, -1127.5)
+[15:32:52] [Server thread/INFO]: Player703 joined the game
+[15:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5814ms behind, skipping 116 tick(s)
+[15:33:06] [Server thread/INFO]: [Player703: Given [item.null.name] * 1 to Player703]
+[15:33:07] [Client thread/INFO]: [CHAT] Given [item.null.name] * 1 to Player703
+[15:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2569ms behind, skipping 51 tick(s)
+[15:33:22] [Server thread/INFO]: Saving and pausing game...
+[15:33:22] [Server thread/INFO]: Saving chunks for level 'New Word'/Overworld
+[15:33:22] [Server thread/INFO]: Saving chunks for level 'New Word'/Nether
+[15:33:22] [Server thread/INFO]: Saving chunks for level 'New Word'/The End
+[15:33:29] [Server thread/INFO]: Saving and pausing game...
+[15:33:30] [Server thread/INFO]: Saving chunks for level 'New Word'/Overworld
+[15:33:30] [Server thread/INFO]: Saving chunks for level 'New Word'/Nether
+[15:33:30] [Server thread/INFO]: Saving chunks for level 'New Word'/The End
+[15:33:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2017ms behind, skipping 40 tick(s)
+[15:33:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2449ms behind, skipping 48 tick(s)
+[15:34:12] [Server thread/INFO]: Saving and pausing game...
+[15:34:12] [Server thread/INFO]: Saving chunks for level 'New Word'/Overworld
+[15:34:13] [Server thread/INFO]: Saving chunks for level 'New Word'/Nether
+[15:34:13] [Server thread/INFO]: Saving chunks for level 'New Word'/The End
+[15:34:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2184ms behind, skipping 43 tick(s)
+[15:34:13] [Client thread/INFO]: Stopping!
+[15:34:13] [Server thread/INFO]: Stopping server
+[15:34:13] [Server thread/INFO]: Saving players
+[15:34:13] [Server thread/INFO]: Saving worlds
+[15:34:13] [Server thread/INFO]: Saving chunks for level 'New Word'/Overworld
+[15:34:13] [Server thread/INFO]: Saving chunks for level 'New Word'/Nether
+[15:34:13] [Server thread/INFO]: Saving chunks for level 'New Word'/The End
+[15:34:14] [Client Shutdown Thread/INFO]: Stopping server
+[15:34:14] [Client Shutdown Thread/INFO]: Saving players

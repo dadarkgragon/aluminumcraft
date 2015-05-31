@@ -1,7 +1,7 @@
 package com.aluminumcraft.main;
 
+import com.aluminumcraft.init.ModItems;
 import com.aluminumcraft.reference.Reference;
-
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -13,7 +13,7 @@ public class AluminumCraftMain {
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
-		
+		ModItems.init();
 	}
 	
 	@EventHandler

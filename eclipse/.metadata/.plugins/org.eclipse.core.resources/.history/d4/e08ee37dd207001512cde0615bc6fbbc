@@ -1,0 +1,8 @@
+package init;
+
+import item.ItemAC;
+
+
+public class ModItems {
+	public static final ItemAC AluminumIngot = new ItemAluminumIngot();
+}
