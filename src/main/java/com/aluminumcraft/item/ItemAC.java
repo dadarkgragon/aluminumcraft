@@ -3,16 +3,13 @@ package com.aluminumcraft.item;
 import net.minecraft.item.Item;
 
 public class ItemAC extends Item {
-	public ItemAC(){
+	public ItemAC(String unlocalizedName){
 		super();
+		this.setUnlocalizedName(unlocalizedName);
 	}
 	
-	@Override
-	public String getUnlocalizedName(){
-		
-	}
 	
 	protected String getUnwrappedUnlocalizedName(String unlocalizedName){
-		return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+		return this.getUnlocalizedName().substring(5);
 	}
 }

@@ -1,0 +1,14 @@
+package com.aluminumcraft.item;
+
+import net.minecraft.item.Item;
+
+public class ItemAC extends Item {
+	public ItemAC(){
+		super();
+	}
+	
+	
+	protected String getUnwrappedUnlocalizedName(String unlocalizedName){
+		return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+	}
+}
